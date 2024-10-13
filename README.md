@@ -11,10 +11,10 @@ To run this project, install arduino ide to upload code to arduino nano.
 
 ## The most important photos
 Other photos in folder pictures.
-![tekst alternatywny](pictures/photo_front.jpg)
-![tekst alternatywny](pictures/photo_back.jpg)
-![tekst alternatywny](pictures/photo.jpg)
+![tekst alternatywny](photo_front.jpg)
+![tekst alternatywny](photo_back.jpg)
+![tekst alternatywny](photo.jpg)
 
 ## electronic Schematic
 
-![tekst alternatywny](pictures/schemat.png)
+![tekst alternatywny](schemat.png)
