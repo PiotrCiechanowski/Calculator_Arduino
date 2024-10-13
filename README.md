@@ -10,7 +10,8 @@ Project is created with:
 To run this project, install arduino ide to upload code to arduino nano.
 
 ## The most important photos
-Other photos in folder pictures.
+
+
 ![tekst alternatywny](photo_front.jpg)
 ![tekst alternatywny](photo_back.jpg)
 ![tekst alternatywny](photo.jpg)
